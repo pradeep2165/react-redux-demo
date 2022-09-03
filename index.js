@@ -79,5 +79,6 @@ store.dispatch(buyIceCream());
 store.dispatch(buyIceCream());
 store.dispatch(buyIceCream());
 store.dispatch(buyIceCream());
+store.dispatch(buyIceCream());
 //to unsubscribe to store
 unsubscribe();
